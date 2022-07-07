@@ -1,6 +1,6 @@
 {
-  "name": "projeto-01",
-  "version": "0.1.0",
+  "name": "tracker-sptech",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
